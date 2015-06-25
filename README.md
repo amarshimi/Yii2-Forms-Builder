@@ -2,8 +2,10 @@ Yii2-Forms-Builder
 ============================
 
 Yii2-Forms-Builder is a skeleton [Yii 2](http://www.yiiframework.com/) application
+that allow to build dynamic forms :)
 
-The template contains the basic features including user login/logout and a contact page.
+
+The module contains the basic features for create forms.
 It includes all commonly used configurations that would allow you to focus on adding new
 features to your application.
 
@@ -20,6 +22,8 @@ DIRECTORY STRUCTURE
       controllers/        contains Web controller classes
       mail/               contains view files for e-mails
       models/             contains model classes
+      modules/
+            dform/        contains module and dependencies
       runtime/            contains files generated during runtime
       tests/              contains various tests for the basic application
       vendor/             contains dependent 3rd-party packages
