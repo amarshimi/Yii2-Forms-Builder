@@ -51,7 +51,7 @@ that is directly under the Web root.
 
 ### Install via Composer
 
-coming soon 
+coming soon
 
 
 CONFIGURATION
