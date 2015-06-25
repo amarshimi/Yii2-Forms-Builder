@@ -1,0 +1,64 @@
+.edit-wrapper-input ul li {
+  list-style: none; }
+.edit-wrapper-input ul > .ui-connect-start {
+  height: 80px;
+  border: 2px dashed #c2c2c2;
+  display: none; }
+.edit-wrapper-input input[type=checkbox], .edit-wrapper-input input[type=radio] {
+  width: 20px;
+  height: 20px; }
+.edit-wrapper-input .fa-check {
+  width: 50px;
+  font-family: fontawesome;
+  font-size: 25px;
+  color: #1AC82B; }
+.edit-wrapper-input .wrapper-filed {
+  overflow: hidden;
+  position: relative; }
+  .edit-wrapper-input .wrapper-filed i.fa-trash {
+    position: absolute;
+    left: 160px; }
+.edit-wrapper-input .wrapper-input:hover {
+  border: 2px dashed #c2c2c2;
+  border-radius: 5px;
+  box-sizing: border-box;
+  transition: 0.5s ease border; }
+.edit-wrapper-input .wrapper-input label:hover {
+  background-color: #fffbe1;
+  cursor: pointer; }
+.edit-wrapper-input .wrapper-input {
+  padding: 12px 20px 0px 20px;
+  border: solid 2px transparent; }
+  .edit-wrapper-input .wrapper-input input[type="text"] {
+    padding: 0.4em;
+    font-family: Arial;
+    margin-bottom: 10px; }
+.edit-wrapper-input .wrapper-input i {
+  padding: 10px;
+  font-size: 20px; }
+.edit-wrapper-input .icon-forms {
+  cursor: pointer;
+  margin-left: 5px;
+  color: #a0a0a0; }
+.edit-wrapper-input .icon-forms:active {
+  color: #313131; }
+.edit-wrapper-input .btn {
+  margin: 5px; }
+
+.view-wrapper-input input[type=checkbox], .view-wrapper-input input[type=radio] {
+  width: 20px;
+  height: 20px; }
+
+.area-buttons-draggable li {
+  list-style: none; }
+.area-buttons-draggable div {
+  margin: 5px;
+  clear: both;
+  float: none; }
+.area-buttons-draggable .ui-state-default, .area-buttons-draggable .ui-widget-content .ui-state-default, .area-buttons-draggable .ui-widget-header .ui-state-default {
+  border: none;
+  background: none;
+  font-weight: bold;
+  color: #1c94c4; }
+
+/*# sourceMappingURL=dform-style.css.map */
