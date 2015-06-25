@@ -1,8 +1,7 @@
-Yii 2 Basic Project Template
+Yii2-Forms-Builder
 ============================
 
-Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
-rapidly creating small projects.
+Yii2-Forms-Builder is a skeleton [Yii 2](http://www.yiiframework.com/) application
 
 The template contains the basic features including user login/logout and a contact page.
 It includes all commonly used configurations that would allow you to focus on adding new
