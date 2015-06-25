@@ -1,5 +1,5 @@
 # in construction
-![alt text](http://shimi.890m.com/img/construction.png":-)")
+![alt text](http://shimi.890m.com/img/construction.png ":-)")
 
 Yii2-Forms-Builder
 ============================
