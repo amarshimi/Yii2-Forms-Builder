@@ -48,7 +48,6 @@ INSTALLATION
 Extract the archive file downloaded to your application a directory named modules
 that is directly under the module directory.
 
-```javascript
 #### you need to copy only dform module
 
 
