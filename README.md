@@ -48,7 +48,7 @@ INSTALLATION
 Extract the archive file downloaded to your application a directory named modules
 that is directly under the module directory.
 
-# <p style='color:red'>you need to copy only dform module</p>
+# you need to copy only dform module
 
 
 CONFIGURATION
