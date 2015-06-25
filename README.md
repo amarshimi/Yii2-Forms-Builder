@@ -46,7 +46,7 @@ INSTALLATION
 ### Install from an Archive File
 
 Extract the archive file downloaded to your application a directory named modules
-that is directly under the Web root.
+that is directly under the module directory .
 
 
 ### Install via Composer
