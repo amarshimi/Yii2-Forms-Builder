@@ -46,7 +46,9 @@ INSTALLATION
 ### Install from an Archive File
 
 Extract the archive file downloaded to your application a directory named modules
-that is directly under the module directory .
+that is directly under the module directory.
+
+you need to copy only dform module 
 
 
 ### Install via Composer
